@@ -5,13 +5,31 @@
 ![Delta Lake](https://img.shields.io/badge/Delta-Lake-green)
 ![Unity Catalog](https://img.shields.io/badge/Governance-Unity%20Catalog-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-# Azure Databricks End-to-End Data Engineering Project (2026)
 
-This repository contains a **production-grade, end-to-end Azure Databricks project**. The project demonstrates modern data engineering concepts, pipeline automation, and best practices suitable for interviews and real-world enterprise applications.  
+Production-grade Lakehouse Data Engineering project built using Azure Databricks, ADLS Gen2, PySpark, Delta Lake, Unity Catalog, Delta Live Tables (DLT), and Databricks Workflows.
 
----
-assets/
- └── architecture.png
+The project demonstrates modern enterprise-grade data engineering concepts including Medallion Architecture, incremental ingestion, structured streaming, data governance, Slowly Changing Dimensions (SCD Type 1 & Type 2), and workflow orchestration.
+
+## 🎯 Skills Demonstrated
+
+- Azure Databricks
+- PySpark
+- Structured Streaming
+- Delta Lake
+- Databricks Auto Loader
+- Delta Live Tables (DLT)
+- Unity Catalog
+- Medallion Architecture
+- SCD Type 1 & Type 2
+- Data Governance
+- Star Schema Modeling
+- Workflow Orchestration
+- Incremental Data Processing
+
+  ## 🏛 Architecture Diagram
+
+![Architecture Diagram](assets/architecture.png)
+
 ## Project Overview
 
 - **Objective:** Build a fully automated data engineering pipeline in Azure Databricks covering ingestion, transformation, governance, and storage.  
