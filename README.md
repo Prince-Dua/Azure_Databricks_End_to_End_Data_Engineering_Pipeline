@@ -26,7 +26,9 @@ The project demonstrates modern enterprise-grade data engineering concepts inclu
 - Workflow Orchestration
 - Incremental Data Processing
 
-  
+  ## 🏛 Architecture Diagram
+
+![Architecture Diagram](architecture.png)
 
 ## Project Overview
 
