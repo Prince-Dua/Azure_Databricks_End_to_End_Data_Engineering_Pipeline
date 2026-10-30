@@ -1,4 +1,10 @@
-<img width="4032" height="774" alt="image" src="https://github.com/user-attachments/assets/5a49b92f-29c4-4e63-9fa3-6d1659324293" />
+# Azure Databricks End-to-End Data Engineering Pipeline
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![Databricks](https://img.shields.io/badge/Databricks-PySpark-red)
+![Delta Lake](https://img.shields.io/badge/Delta-Lake-green)
+![Unity Catalog](https://img.shields.io/badge/Governance-Unity%20Catalog-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 # Azure Databricks End-to-End Data Engineering Project (2026)
 
 This repository contains a **production-grade, end-to-end Azure Databricks project**. The project demonstrates modern data engineering concepts, pipeline automation, and best practices suitable for interviews and real-world enterprise applications.  
