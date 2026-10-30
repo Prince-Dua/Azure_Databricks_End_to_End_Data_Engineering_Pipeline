@@ -1,3 +1,4 @@
+<img width="4032" height="774" alt="image" src="https://github.com/user-attachments/assets/5a49b92f-29c4-4e63-9fa3-6d1659324293" />
 # Azure Databricks End-to-End Data Engineering Project (2026)
 
 This repository contains a **production-grade, end-to-end Azure Databricks project**. The project demonstrates modern data engineering concepts, pipeline automation, and best practices suitable for interviews and real-world enterprise applications.  
