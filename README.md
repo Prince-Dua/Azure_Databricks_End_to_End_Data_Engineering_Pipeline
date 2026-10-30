@@ -10,7 +10,8 @@
 This repository contains a **production-grade, end-to-end Azure Databricks project**. The project demonstrates modern data engineering concepts, pipeline automation, and best practices suitable for interviews and real-world enterprise applications.  
 
 ---
-
+assets/
+ └── architecture.png
 ## Project Overview
 
 - **Objective:** Build a fully automated data engineering pipeline in Azure Databricks covering ingestion, transformation, governance, and storage.  
