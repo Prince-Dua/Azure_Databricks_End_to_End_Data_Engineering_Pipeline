@@ -30,6 +30,14 @@ The project demonstrates modern enterprise-grade data engineering concepts inclu
 
 ![Architecture Diagram](architecture.png)
 
+## 🏢 Business Problem
+
+Modern retail organizations generate large volumes of customer, product, order, and regional data from multiple sources.
+
+Traditional ETL systems often struggle with scalability, governance, historical tracking, and automation requirements.
+
+This project demonstrates how Azure Databricks can be leveraged to build a scalable Lakehouse architecture using Delta Lake, Unity Catalog, and Medallion Architecture principles to support batch and streaming analytical workloads.
+
 ## Project Overview
 
 - **Objective:** Build a fully automated data engineering pipeline in Azure Databricks covering ingestion, transformation, governance, and storage.  
@@ -59,6 +67,23 @@ The project demonstrates modern enterprise-grade data engineering concepts inclu
 | Orchestration | Parameterized notebooks, job dependencies, parallel & sequential execution |
 
 ---
+## 📁 Repository Structure
+
+```text
+Azure_Databricks_End_to_End_Data_Engineering_Pipeline/
+│
+├── Code/
+│   ├── Bronze/
+│   ├── Silver/
+│   └── Gold/
+│
+├── jobs_pipelines/
+│
+├── assets/
+│   └── architecture.png
+│
+├── README.md
+└── LICENSE
 
 ## Key Concepts
 
@@ -113,5 +138,23 @@ The project demonstrates modern enterprise-grade data engineering concepts inclu
    - Orchestrate end-to-end workflow using **Databricks Jobs** with dependencies and parallel execution.  
 
 ---
+
+## 📈 Project Outcomes
+
+✅ Automated end-to-end data pipeline
+
+✅ Incremental data ingestion using Auto Loader
+
+✅ Bronze, Silver, Gold Medallion Architecture
+
+✅ Delta Lake implementation with ACID transactions
+
+✅ Historical tracking with SCD Type 2
+
+✅ Enterprise governance using Unity Catalog
+
+✅ Workflow orchestration using Databricks Jobs
+
+✅ Production-ready ETL architecture
 
 
