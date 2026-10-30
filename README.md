@@ -69,7 +69,7 @@ This project demonstrates how Azure Databricks can be leveraged to build a scala
 ---
 ## 📁 Repository Structure
 
-```text
+
 Azure_Databricks_End_to_End_Data_Engineering_Pipeline/
 │
 ├── Code/
@@ -84,6 +84,7 @@ Azure_Databricks_End_to_End_Data_Engineering_Pipeline/
 │
 ├── README.md
 └── LICENSE
+---
 
 ## Key Concepts
 
